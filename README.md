@@ -11,7 +11,7 @@ order of precedence logic.
 # SDLC Activity Based Learning
 Build | Code Quality | Git Inspector | code quality score |
 |---------|------------|-------------|--------------------|
-|[![C/C++ CI](https://github.com/Choudhury99/M1_Calculator/actions/workflows/c++.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/c++.yml)| [![Unit Testing - Unity](https://github.com/Choudhury99/M1_Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml)|[![Static Code Quality- Cppcheck](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml) |
+|[![C/C++ CI](https://github.com/Choudhury99/M1_Calculator/actions/workflows/c++.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/c++.yml)| [![Unit Testing - Unity](https://github.com/Choudhury99/M1_Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml)|[![Static Code Quality- Cppcheck](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml)   |
 
 #### Folder Structure
 Folder             | Description
