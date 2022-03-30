@@ -8,7 +8,7 @@ which I'm Implementing ,also included three additional operations such as Factor
 
 The input includes the command such as we can give numbers based on the operation for example for addition we give 1 as a command and that particular operation works.Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction/factorial/power/modulas, in another word it is implemented with the
 order of precedence logic.
-Build | Code Quality | Git Inspector | code quality score |
+Build | Unity | Git Inspector | code quality score |
 |---------|------------|-------------|--------------------|
 |[![C/C++ CI](https://github.com/Choudhury99/M1_Calculator/actions/workflows/c++.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/c++.yml)| [![Unit Testing - Unity](https://github.com/Choudhury99/M1_Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml)|[![Static Code Quality- Cppcheck](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml)|
 
