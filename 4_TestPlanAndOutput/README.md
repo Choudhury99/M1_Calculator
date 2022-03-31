@@ -8,4 +8,4 @@
 
 # ![image](https://user-images.githubusercontent.com/69413922/132315546-7e4b23e5-11dd-433a-ba6a-9ffff07d5787.png)
 
-* Add all the test paln and test output related files under this folder
+
