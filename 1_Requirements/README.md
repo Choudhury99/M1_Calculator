@@ -40,11 +40,11 @@ threat in the upcoming dynamic world.
 | ----- | ----- | ------- | 
 |HLR01|User should able to view operation list|technical|  
 |HLR02|User should able to select the operation|technical|
-|HLR03|The system sould able perform the given operation|technical|
-|HLR04|The system should provide correct result|technical|   
 
 ## LOW LEVEL REQUIREMENTS:-
 | ID | Description | Category | 
 | ----- | ----- | ------- |
+|LR01|The system sould able perform the given operation|technical|
+|LR02|The system should provide correct result|technical|   
 
 
