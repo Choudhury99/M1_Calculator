@@ -2,9 +2,10 @@
 
 # Component Diagram   
 
-# ![COMPON](https://user-images.githubusercontent.com/69413922/132314720-f109a6cb-ac57-428d-a173-14c869e54413.png)   
+# ![COMPON](https://user-images.githubusercontent.com/101013962/161131348-88dc0068-ddb5-4512-a2c5-995e79ee646a.png)
+  
   
 # Class Diagram  
-# ![class (1)](https://user-images.githubusercontent.com/69413922/132315060-d77c79d6-5a87-4075-8f37-00111ef69d67.png)
+# ![class (1)](https://user-images.githubusercontent.com/101013962/161131557-e9dade28-26e2-4600-8307-92dd623488f2.png)
 
 
